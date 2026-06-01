@@ -1,3 +1,3 @@
-## Play locally
+play locally
 
-Open `index.html` in a browser.
+Open index.html in a browser.
